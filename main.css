@@ -91,6 +91,16 @@ body {
     hyphens: auto;
 }
 
+#abstract h1 {
+    font-size: 1.8vw;
+    font-weight: normal;
+    width: 90%;
+}
+
+#abstract p {
+    padding-top: 1vw;
+}
+
 .author-container {
     color: #2f2f2f;
     font-family: Gelasio,"Avenir Next",Helvetica,sans-serif;
@@ -1313,6 +1323,16 @@ html.w-mod-touch * {
         margin-left: auto;
         margin-right: auto;
         font-size: 3vw;
+    }
+
+    #abstract h1 {
+        font-size: 4.6vw;
+        width: 90%;
+        font-weight: normal;
+    }
+
+    #abstract p {
+        padding-top: 1vw;
     }
 
     .title_left {
